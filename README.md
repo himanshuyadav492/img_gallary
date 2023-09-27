@@ -30,7 +30,14 @@ Install dependencies
 ```
 
 Start the server
-
 ```bash
   npm run start
-``
+```
+
+
+https://github.com/himanshu20yadav/img_gallary/assets/121588019/7b9ed534-285d-466a-903d-6f47f7606ad2
+
+
+
+
+
